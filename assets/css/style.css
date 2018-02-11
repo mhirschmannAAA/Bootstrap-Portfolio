@@ -1,0 +1,32 @@
+.main-section {
+    float: left;
+    width: 100%;
+    max-width: 650px;
+    padding: 30px;
+    margin: 0 0 40px 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+  }
+
+.h1 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #4aaaa5;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+    line-height: 49px;
+    border-bottom: 3px solid #ddd;
+    background-color: teal;
+    width: 350px;
+  }
+
+.h2 {
+    font-size: 22px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #ddd;
+  } 
